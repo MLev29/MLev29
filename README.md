@@ -1,6 +1,7 @@
-#MLev29
+# MLev29
+Love programming dumb projects & games
 
-##Programming Languages
+## Programming Languages
 - Python
 - C# (sometimes... when I feel like it)
 - C
