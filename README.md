@@ -1,10 +1,10 @@
 # MLev29
-Love programming dumb projects & games
+Coding & Vibing
 
 ## Programming Languages
-- Python
-- C# (sometimes... when I feel like it)
-- C++
 - C
+- C++
+- C# 
+- Python
 - HTML
 - CSS
