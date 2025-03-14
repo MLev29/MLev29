@@ -1,8 +1,8 @@
 # MLev29
 ## Projects 
-- TCP client server chat program coded in c++
-- [Math library coded in c++](https://github.com/MLev29/LibMath)
-- [OpenGL optimized `.obj` parser in C / C++](https://github.com/MLev29/ObjectParser)
+- TCP client server chat program [Soon...]
+- Math library [View](https://github.com/MLev29/LibMath)
+- OpenGL optimized `.obj` parser [View](https://github.com/MLev29/ObjectParser)
 
 ## Skills
 - Git
