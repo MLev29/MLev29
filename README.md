@@ -14,6 +14,7 @@
 
 ## Programming Languages
 - C++
+- C
 - C# (Unity)
 - Python
 - HTML
