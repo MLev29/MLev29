@@ -6,6 +6,7 @@
 
 ## Skills
 - Git
+- CMake
 - Object oriented programming
 - Unreal engine 5
 - Unity
