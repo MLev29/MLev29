@@ -2,7 +2,7 @@
 ## Projects 
 - TCP client server chat program [Soon...]
 - Math library [View](https://github.com/MLev29/LibMath)
-- OpenGL optimized `.obj` parser [View](https://github.com/MLev29/ObjectParser)
+- Fast OpenGL `.obj` parser [View](https://github.com/MLev29/ObjectParser)
 
 ## Skills
 - Git
