@@ -1,8 +1,8 @@
 # Marc Levesque Portfolio
 ## Projects 
-- TCP client server chat program [Soon...]
 - Math library [View](https://github.com/MLev29/LibMath)
 - Fast OpenGL `.obj` parser [View](https://github.com/MLev29/ObjectParser)
+- TCP client server chat program [View](https://github.com/MLev29/ChatProgram/tree/main)
 
 ## Skills
 - Git
